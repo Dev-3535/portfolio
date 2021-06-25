@@ -27,6 +27,8 @@
 #### Controlles https://laravel.com/docs/8.x/controllers
 #### Routing https://laravel.com/docs/8.x/routing
 
+
+## Run the project
 `php artisan serve`
 `127.0.0.1:8000`
 
