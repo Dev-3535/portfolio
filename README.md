@@ -5,10 +5,6 @@
 
 >This is a portfolio made with Laravel, implemented with jQuery, Bootstrap and CSS in addition to the default Laravel blade.
 
-## Code Samples
-
-
-
 ## Installation
 
 >Clon or download the project and extact files
@@ -32,5 +28,13 @@
 #### Routing https://laravel.com/docs/8.x/routing
 
 
+## Run the project
+`php artisan serve`
+`127.0.0.1:8000`
 
+<<<<<<< HEAD
 ``
+=======
+
+> 
+>>>>>>> f4bf219929c82df1c35e97c5636a6f1b152f108e
